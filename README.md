@@ -4,13 +4,6 @@
 
 <br clear="both">
 
-<div align="center">
-</div>
-
-###
-
-<br clear="both">
-
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF6YXhkZGFnZGF2ang3YXR0NHFiNnRibnUxYzg0a3FjMWZybjZiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif"  />
 
 ###
@@ -25,8 +18,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/joaquim7zz/joaquim7zz/output/snake.svg" alt="Snake animation" />
-
-###
