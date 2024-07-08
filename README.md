@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Me chamo Joaquim, resido em Canhotinho-PE, sou graduando em Engenharia de Software e Técnico em Desenvolvimento de Sistemas.</h5>
+<h3 align="left">Me chamo Joaquim, resido em Canhotinho-PE, sou graduando em Engenharia de Software e Técnico em Desenvolvimento de Sistemas.</h3>
 
 ###
 
