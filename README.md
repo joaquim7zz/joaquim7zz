@@ -1,58 +1,50 @@
-<h1 align="left">Opa, tudo joia?</h1>
+# 👋 Opa, tudo jóia?
 
-###
+Me chamo **Joaquim**, sou de **Canhotinho-PE** e estou cursando **Engenharia de Software** na UniCesumar. Sou apaixonado por tecnologia, programação e o impacto que elas podem gerar na vida das pessoas.
 
-<p align="left">Me chamo Joaquim, resido em Canhotinho-PE, e sou graduando em Engenharia de Software. Apaixonado por tecnologia e programação, estou constantemente em busca de aprimorar minhas habilidades. <br><br>Meu foco é aliar o aprendizado acadêmico a práticas reais, sempre com o objetivo de desenvolver soluções eficientes e inovadoras. Participo de comunidades técnicas, onde troco experiências e colaboro em projetos que ampliam minha visão sobre o mercado de software.</p>
+Meu objetivo é combinar o conhecimento acadêmico com práticas reais, sempre buscando desenvolver soluções eficientes e inovadoras. Sou entusiasta de comunidades técnicas, onde compartilho experiências, colaboro em projetos e aprendo continuamente sobre o mercado de software.
 
-###
+---
 
-<br clear="both">
+## 🎓 Formação
 
-<p align="center">🎓 Engenharia de Software (Graduando - UniCesumar)</p>
+- Graduando em **Engenharia de Software** (UniCesumar)
 
-###
-
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jwd3l2bnc1czhpOGVzNTljb3FyZWF4NXVvM3Z1OHUxb2w2bXM1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-</div>
-
-###
-
-<h2 align="center">🛠️ Aprimorando habilidades em</h2>
-
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jwd3l2bnc1czhpOGVzNTljb3FyZWF4NXVvM3Z1OHUxb2w2bXM1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding animation" />
 </div>
 
-###
+---
 
-<h2 align="center">🌐 Minhas redes Sociais</h2>
+## 🛠️ Habilidades em Desenvolvimento
 
-###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+</div>
 
-<br clear="both">
+---
+
+## 🌐 Minhas Redes
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joaquim7zz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/joaquim.7z/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
 </div>
