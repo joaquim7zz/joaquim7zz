@@ -30,7 +30,7 @@ Sempre em busca de aprendizado, gosto de desafios e de aprimorar minhas habilida
 
 ---
 
-<h2 align="left">⚒️ Ferramentas e Tecnologias</h2>
+<h2 align="left"> Ferramentas e Tecnologias</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
@@ -53,14 +53,6 @@ Sempre em busca de aprendizado, gosto de desafios e de aprimorar minhas habilida
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaquim7zz/joaquim7zz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaquim7zz/joaquim7zz/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/joaquim7zz/joaquim7zz/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
