@@ -11,7 +11,6 @@ Sempre em busca de aprendizado, gosto de desafios e de aprimorar minhas habilida
 
 <ul>
   <li>🌐 Graduando em <strong>Engenharia de Software</strong></li>
-  <li>💻 Estudante <strong>TECH FOUNDATION - Especialização Back-End (Oracle ONE)</strong></li>
 </ul>
 
 ---
